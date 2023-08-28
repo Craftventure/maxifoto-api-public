@@ -1,0 +1,22 @@
+# Made in Blockbench 3.7.2
+newmtl m_0
+map_Kd cyan_shulker_box.png 
+newmtl m_1
+map_Kd gray_shulker_box.png 
+newmtl m_2
+map_Kd red_terracotta.png 
+newmtl m_3
+map_Kd anvil.png 
+newmtl m_7
+map_Kd black_shulker_box.png 
+newmtl m_9
+map_Kd light_blue_shulker_box.png 
+newmtl m_10
+map_Kd stripped_dark_oak_log.png 
+newmtl m_stone_slab
+map_Kd smooth_stone.png 
+newmtl m_wielen inner
+map_Kd piston_inner.png 
+newmtl m_remmen
+map_Kd furnace_side.png 
+newmtl none

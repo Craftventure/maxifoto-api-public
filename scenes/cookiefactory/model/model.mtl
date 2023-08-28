@@ -1,0 +1,20 @@
+# Made in Blockbench 1.11.6
+newmtl 0
+map_Kd concrete_red.png
+newmtl 1
+map_Kd hardened_clay_stained_red.png
+newmtl 2
+map_Kd clay.png
+newmtl 3
+map_Kd cookie.png
+newmtl 4
+map_Kd parrot_grey.png
+newmtl stone_slab_top
+map_Kd stone_slab_top.png
+newmtl anvil_base
+map_Kd anvil_base.png
+newmtl wielen inner
+map_Kd piston_inner.png
+newmtl cauldron_inner
+map_Kd cauldron_inner.png
+newmtl none
